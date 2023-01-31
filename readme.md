@@ -18,6 +18,8 @@
     <a href="https://github.com/adarsh-goel/filestreambot-pro/issues">Request Feature</a>
   </p>
 
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/itsyogieu/Filestreambot-pro&branch=main&name=file2linkbot)
+
 
 <hr>
 
