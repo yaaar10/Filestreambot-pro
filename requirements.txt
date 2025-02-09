@@ -1,11 +1,7 @@
-pyrogram<=2.0.33
-tgcrypto<=1.2.3
-aiohttp<=3.8.1
-python-dotenv<=0.20.0
+aiohttp
+https://github.com/KurimuzonAkuma/pyrogram/archive/refs/tags/v2.1.24.zip
+python-dotenv
+tgcrypto
 motor
 aiofiles
 dnspython
-apscheduler
-requests
-psutil
-pyromod
